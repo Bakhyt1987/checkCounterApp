@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
